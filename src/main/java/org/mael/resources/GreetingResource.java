@@ -1,4 +1,4 @@
-package org.mael;
+package org.mael.resources;
 
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;
